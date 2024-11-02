@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "express": "^4.21.1",
+    "googleapis": "^144.0.0",
+    "jsdom": "^25.0.1"
+  }
+}
